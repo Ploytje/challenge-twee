@@ -17,6 +17,9 @@ body {
     border: 4px double;
    	/*margin-top: 355px;  */   
 }
+html {
+	height: 100%;
+}
 main {
 
 }
