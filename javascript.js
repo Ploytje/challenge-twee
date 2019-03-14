@@ -1,6 +1,6 @@
 
-
-
+var h = 9;
+var hour = 9;
     var h,m,s;
 
     // klok
