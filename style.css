@@ -15,7 +15,7 @@ body {
     color: white;
     font-family: 'Space Mono', monospace;
     border: 4px double;
-   	margin-top: 355px;     
+   	/*margin-top: 355px;  */   
 }
 main {
 
@@ -83,7 +83,7 @@ figure img {
 
 @media only screen and (min-width:720px) and (max-width:1023px){
 	body {
-		margin-top: 265px; 
+		/*margin-top: 265px;*/ 
 		
 
 	}
@@ -121,7 +121,7 @@ figure img {
 @media only screen and (min-width:1024px) and (max-width:1439px){
 
 	body {
-		margin-top: 300px; 
+		/*margin-top: 300px; */
 	}
 
 	.background {
@@ -157,7 +157,7 @@ figure img {
 @media only screen and (min-width:1440px) {
 
 	body {
-		margin-top: 375px; 
+		/*margin-top: 375px; */
 	}
 	.background {
 	display: grid;
